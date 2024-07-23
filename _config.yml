@@ -1,10 +1,10 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+title: Ali Asghari Adib
+subtitle: Website
+email: ali.asghariadib.92@gmail.com
+description: My website.
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: aliaadib-website.github.io # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
@@ -22,7 +22,7 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/aliaadib
   GitLab:
   Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
   Instagram:
