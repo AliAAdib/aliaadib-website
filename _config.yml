@@ -4,7 +4,7 @@ subtitle: Website
 email: ali.asghariadib.92@gmail.com
 description: My website.
 baseurl: "/home" # the subpath of your site, e.g. /blog
-url: aliaadib-website.github.io # the base hostname & protocol for your site
+url: https://aliaadib.github.io/aliaadib-website/ # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
